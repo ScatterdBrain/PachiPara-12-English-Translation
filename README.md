@@ -7,4 +7,4 @@ See here for more info [romhacking.net](https://www.romhacking.net/forum/index.p
  \
 Tools used: \
 [QuickBMS](https://aluigi.altervista.org/quickbms.htm) - unpacking of .DAT files with disaster_report.bms script. \
-![WIP1](WIP/WIP_Cutscene_Dialogue.png)![WIP2](WIP/WIP_Chart.png)![WIP3](WIP/WIP_Pachinko_Battle.png)![WIP4](WIP/WIP_Inventory.png)![WIP5](WIP/WIP_Story_Menu.png)
+![WIP1](WIP/WIP_Cutscene_Dialogue.png)![WIP2](WIP/WIP_Chart.png)![WIP3](WIP/WIP_Pachinko_Battle.png)![WIP4](WIP/WIP_Inventory.png)![WIP5](WIP/WIP_Text_Manipulation.png)
